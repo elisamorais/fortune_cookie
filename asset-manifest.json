@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.a1b8244b.css",
-    "main.js": "./static/js/main.86e21cf5.js",
+    "main.js": "./static/js/main.2dd95c55.js",
     "static/media/biscoito.png": "./static/media/biscoito.a4f4e6a6349b157c5a5e.png",
     "index.html": "./index.html",
     "main.a1b8244b.css.map": "./static/css/main.a1b8244b.css.map",
-    "main.86e21cf5.js.map": "./static/js/main.86e21cf5.js.map"
+    "main.2dd95c55.js.map": "./static/js/main.2dd95c55.js.map"
   },
   "entrypoints": [
     "static/css/main.a1b8244b.css",
-    "static/js/main.86e21cf5.js"
+    "static/js/main.2dd95c55.js"
   ]
 }
