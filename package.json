@@ -1,6 +1,6 @@
 {
   "name": "fortune_cookie",
-  "homepage": "https://elisamorais.github.io/fortune_cookie",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
